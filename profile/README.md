@@ -12,7 +12,8 @@ todas aquellas personas interesadas en Python.
 
 Nuestros canales:
 
+- Visita nuestro [sitio web](https://ayudaenpython.com/).
 - Únete a nuestro [grupo de Facebook](https://www.facebook.com/groups/ayudapython).
 - Sigue nuestro [canal de WhatsApp](https://whatsapp.com/channel/0029Va6vpO6HQbRzIKGtyE0U).
 - Sigue nuestra cuenta de Instagram ([@ayudaenpython](https://www.instagram.com/ayudaenpython?igsh=M2MyNXY4YTJuNG1q&utm_source=qr)).
-- Nuestra cuenta en [YouTube](https://www.youtube.com/@ayudaenpython).
+- Suscríbete a nuestra cuenta en [YouTube](https://www.youtube.com/@ayudaenpython).

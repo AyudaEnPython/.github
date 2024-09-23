@@ -1,6 +1,6 @@
 # Ayuda En Python
 
-## Sobre nosotros
+¡Hola 👋!
 
 Somos una comunidad dedicada a brindar apoyo y resolver cualquier duda, problema
 o consulta, ya sea de nivel principiante, intermedio o avanzado. Compartimos
@@ -10,7 +10,7 @@ Nuestra principal motivación es ofrecer todo tipo de información que beneficie
 la comunidad de forma gratuita. De esta manera, proporcionamos una ayuda extra a
 todas aquellas personas interesadas en Python.
 
-## Nuestros canales
+Nuestros canales:
 
 - Únete a nuestro [grupo de Facebook](https://www.facebook.com/groups/ayudapython).
 - Sigue nuestro [canal de WhatsApp](https://whatsapp.com/channel/0029Va6vpO6HQbRzIKGtyE0U).

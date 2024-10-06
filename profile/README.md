@@ -1,4 +1,4 @@
-# Ayuda En Python
+# Ayuda En Python 🤝
 
 ¡Hola 👋!
 
@@ -10,7 +10,7 @@ Nuestra principal motivación es ofrecer todo tipo de información que beneficie
 la comunidad de forma gratuita. De esta manera, proporcionamos una ayuda extra a
 todas aquellas personas interesadas en Python.
 
-Nuestros canales:
+Nuestros canales 📢:
 
 - Visita nuestro [sitio web](https://ayudaenpython.com/).
 - Únete a nuestro [grupo de Facebook](https://www.facebook.com/groups/ayudapython).
